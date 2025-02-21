@@ -9,6 +9,9 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - I2C LCD Display (16x2)
 - Jumper wires
 - Breadboard
+  
+![waterlevel1](https://github.com/user-attachments/assets/457a41df-8af7-408f-9c16-acb77887c881)
+
 
 ## Connections
 ### Ultrasonic Sensor:
@@ -35,6 +38,9 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - *Tank Dimensions:* Configured in the code (tankHeight, tankLength, tankBreadth).
 - *Water Level Calculation:* Converts the ultrasonic sensor reading into water level percentage, height, and volume.
 - *LCD Display:* Shows the water level percentage, volume, and a progress bar.
+
+  
+![Uploading Waterlevel2.jpg…]()
 
 ## Features
 - *Real-Time Water Level Measurement:* Continuously measures and updates the water level.
