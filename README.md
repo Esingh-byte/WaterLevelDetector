@@ -39,7 +39,7 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - *Water Level Calculation:* Converts the ultrasonic sensor reading into water level percentage, height, and volume.
 - *LCD Display:* Shows the water level percentage, volume, and a progress bar.
 
-  
+
 ![Waterlevel2](https://github.com/user-attachments/assets/290c3752-c21a-4423-a35a-2fa003edae64)
 
 
