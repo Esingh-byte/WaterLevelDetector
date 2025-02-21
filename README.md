@@ -40,7 +40,8 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - *LCD Display:* Shows the water level percentage, volume, and a progress bar.
 
   
-![Uploading Waterlevel2.jpg…]()
+![Waterlevel2](https://github.com/user-attachments/assets/290c3752-c21a-4423-a35a-2fa003edae64)
+
 
 ## Features
 - *Real-Time Water Level Measurement:* Continuously measures and updates the water level.
