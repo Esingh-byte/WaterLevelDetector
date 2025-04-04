@@ -1,7 +1,7 @@
 # WaterLevelDetector
 # Water Level Meter with Ultrasonic Sensor and LCD Display
 
-This project uses an ultrasonic sensor to measure the water level in a tank and displays the results on an I2C LCD screen.
+This project uses an ultrasonic sensor to measure the water level in a tank and displays the results on an I2C LCD screen. 
  
 ## Components
 - Arduino Uno (or compatible microcontroller)
