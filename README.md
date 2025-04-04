@@ -8,7 +8,7 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - Ultrasonic Sensor (HC-SR04)
 - I2C LCD Display (16x2)
 - Jumper wires
-- Breadboard
+- Breadboard 
   
 ![waterlevel1](https://github.com/user-attachments/assets/457a41df-8af7-408f-9c16-acb77887c881)
 
