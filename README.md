@@ -3,7 +3,7 @@
   
 This project uses an ultrasonic sensor to measure the water level in a tank and displays the results on an I2C LCD screen. 
  
-## Components
+## Components 
 - Arduino Uno (or compatible microcontroller) 
 - Ultrasonic Sensor (HC-SR04)
 - I2C LCD Display (16x2) 
